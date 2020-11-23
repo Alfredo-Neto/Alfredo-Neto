@@ -1,9 +1,9 @@
 ### Hi there, Alfredo Here 👋
 
-## I'm a Javascript developer
+## I'm a Javascript Web Developer
 
-- 🌱 Currently learning ReactJS
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 Currently learning more of ReactJS
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
 
 <p align="left">
