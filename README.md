@@ -1,6 +1,6 @@
 ### Hi there, Alfredo here 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/alfredo-neto-a2515814b/)
+[![Website](https://img.shields.io/website?label=Clique aqui&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/alfredo-neto-a2515814b/)
 
 ## I'm a Javascript Developer
 
