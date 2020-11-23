@@ -17,8 +17,8 @@
   <a href="https://www.linkedin.com/in/alfredo-neto-a2515814b/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alfredo-neto-a2515814b/" /></a>
 
-  <a href="https://api.whatsapp.com/send?phone=5514991653238&text=Olá%20iuricode,%20tudo%20bem?" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-3CB371?style=flat-square&labelColor=3CB371&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514991653238&text=Olá%20Iuri,%20tudo%20bem?"/></a>
+  <a href="https://api.whatsapp.com/send?phone=5592982119316&text=Olá%20Alfredo,%20tudo%20bem?" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-3CB371?style=flat-square&labelColor=3CB371&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5592982119316&text=Olá%20Alfredo,%20tudo%20bem?"/></a>
 
   <a href="https://www.instagram.com/alfredobraule/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/alfredobraule/"/></a>
