@@ -2,7 +2,7 @@
 
 ## I'm a Javascript developer
 
-- 🌱 I’m currently learning ReactJS
+- 🌱 Currently learning ReactJS
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
 
