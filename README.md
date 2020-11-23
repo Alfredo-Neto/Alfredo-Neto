@@ -1,4 +1,4 @@
-### Hi there, Alfredo Here 👋
+### Hi there, Alfredo here 👋
 
 ## I'm a Javascript Web Developer
 
