@@ -32,8 +32,6 @@
 <br />
 <br />
 
----
-
 [instagram]: https://www.instagram.com/alfredobraule/
 [linkedin]: https://www.linkedin.com/in/alfredo-neto-a2515814b/
 
