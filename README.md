@@ -7,7 +7,11 @@
 - ⚡ Fun fact: I love to draw and play guitar
 
 <p align="left">
-  ⛩ Skills: <strong>HTML5, CSS3, JavaScript ES6, NodeJS, ExpressJS, MongoDB, ReactJS, Postman, PHP 7, MySQL, PDO .</strong>
+  ⛩ Skills: <strong>HTML5, CSS3, JavaScript ES6, NodeJS, ExpressJS, MongoDB, ReactJS, PHP 7, MySQL, PDO, Linux, Shell .</strong>
+</p>
+
+<p align="left">
+  🔧 Tools: <strong>Visual Studio Code, Postman, Insomnia, MySQL Workbench, Git e GitHub.</strong>
 </p>
 
 <p align="left">
