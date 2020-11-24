@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love to draw and play guitar
 
 <p align="left">
-  ⛩ Skills: <strong>HTML5, CSS3, JavaScript ES6, NodeJS, ExpressJS, MongoDB, ReactJS, PHP 7, MySQL, PDO, Linux, Shell .</strong>
+  ⛩ Skills: <strong>HTML5, CSS3, JavaScript ES6, NodeJS, ExpressJS, MongoDB, ReactJS, PHP 7, MySQL, PDO, Linux, Shell, Algorithms and Data Structures .</strong>
 </p>
 
 <p align="left">
