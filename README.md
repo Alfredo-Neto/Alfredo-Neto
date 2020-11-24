@@ -5,13 +5,7 @@
 - 🌱 Currently learning more of ReactJS
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-<p align="left">
-  ⛩ Skills: <strong>HTML5, CSS3, JavaScript ES6, NodeJS, ExpressJS, MongoDB, ReactJS, PHP 7, MySQL, PDO, Linux, Shell, Algorithms and Data Structures .</strong>
-</p>
-
-<p align="left">
-  🔧 Tools: <strong>Visual Studio Code, Postman, Insomnia, MySQL Workbench, Git e GitHub.</strong>
-</p>
+I’m a self taught web developer since 2019, currently building personal projects with focus on code quality and user experience. In order to turn easier the life of people around me and also my own, i have been solving day-to-day problems by creating valuable and scalable web applications.
 
 <p align="left">
   <a href="mailto:alfredoneto934@gmail.com" alt="Gmail">
