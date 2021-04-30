@@ -7,7 +7,7 @@
 
 I’m a self taught web developer since 2020, currently building personal projects with focus on code quality and user experience. In order to turn easier the life of people around me and also my own, i have been solving day-to-day problems by creating valuable and scalable web applications.
 
-<img src="/home/alfredoluana/laptop.jpg" />
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.freepik.com%2Ffree-vector%2Flaptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-vector%2Flaptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_4102879.htm&tbnid=JcGurYvec6ByEM&vet=12ahUKEwiB7pTO6KTwAhVxCLkGHd4tBkUQMygBegUIARC4AQ..i&docid=FYisGngwb8yvbM&w=626&h=469&q=laptop%20developer%20freepik&hl=pt-BR&safe=active&ved=2ahUKEwiB7pTO6KTwAhVxCLkGHd4tBkUQMygBegUIARC4AQ" />
 
 Feel free to get in touch with me:
 :arrow_down:
