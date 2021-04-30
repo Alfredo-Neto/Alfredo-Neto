@@ -9,6 +9,8 @@
 
 I’m a self taught web developer since 2020, currently building personal projects with focus on code quality and user experience. In order to turn easier the life of people around me and also my own, i have been solving day-to-day problems by creating valuable and scalable web applications.
 
+- Currently studying on 42SP.
+
 Feel free to get in touch with me:
 :arrow_down:
 
