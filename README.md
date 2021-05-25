@@ -9,7 +9,7 @@ I’m a self taught web developer since 2020, currently building personal projec
 
 Currently studying OOP PHP, ReactJS and NodeJS
 
-- Currently studying Software Engineering at 42SP.
+- Studying Software Engineering at 42SP.
 
 Feel free to get in touch with me:
 :arrow_down:
