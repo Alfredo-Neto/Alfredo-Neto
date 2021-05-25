@@ -2,12 +2,12 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Alfredo Neto">
 
-## I'm a Javascript Web Developer
-
 - 🌱 Currently learning more of ReactJS
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 I’m a self taught web developer since 2020, currently building personal projects with focus on code quality and user experience. In order to turn easier the life of people around me and also my own, i have been solving day-to-day problems by creating valuable and scalable web applications.
+
+Currently studying OOP PHP, ReactJS and NodeJS
 
 - Currently studying Software Engineering at 42SP.
 
