@@ -13,7 +13,6 @@ Currently studying OOP PHP, ReactJS and NodeJS
 
 [![Alfredo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alfredo-Neto)](https://github.com/Alfredo-Neto/github-readme-stats&show_icons=true&theme=radical)
 
-
 Feel free to get in touch with me:
 :arrow_down:
 
