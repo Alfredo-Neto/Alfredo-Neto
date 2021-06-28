@@ -7,7 +7,7 @@
 
 I’m a self taught web developer since 2020, currently building personal projects with focus on code quality and user experience. In order to turn easier the life of people around me and also my own, i have been solving day-to-day problems by creating valuable and scalable web applications.
 
-Currently studying OOP PHP, ReactJS and NodeJS
+Currently studying OOP PHP with good practices and clean architecture, ReactJS and NodeJS.
 
 - Studying Software Engineering at 42SP.
 
