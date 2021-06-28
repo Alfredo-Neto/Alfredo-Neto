@@ -11,7 +11,7 @@ Currently studying OOP PHP, ReactJS and NodeJS
 
 - Studying Software Engineering at 42SP.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true)
+![Alfredo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true)
 
 Feel free to get in touch with me:
 :arrow_down:
