@@ -10,13 +10,8 @@ I’m a self taught web developer since 2020, currently building personal projec
 Currently studying OOP PHP, ReactJS and NodeJS
 
 - Studying Software Engineering at 42SP.
-<center>
-<table>
-    <tr>
-        [![Alfredo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alfredo-Neto)](https://github.com/Alfredo-Neto/github-readme-       stats&show_icons=true&theme=radical)
-  </tr>   
-</table>
- </center>
+
+[![Alfredo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alfredo-Neto)](https://github.com/Alfredo-Neto/github-readme-       stats&show_icons=true&theme=radical)
 
 Feel free to get in touch with me:
 :arrow_down:
