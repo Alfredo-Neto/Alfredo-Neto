@@ -11,7 +11,7 @@ Currently studying OOP PHP, ReactJS and NodeJS
 
 - Studying Software Engineering at 42SP.
 
-[![Alfredo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alfredo-Neto)](https://github.com/Alfredo-Neto/github-readme-stats&show_icons=true)
+[![Alfredo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alfredo-Neto)](https://github.com/Alfredo-Neto/github-readme-stats&show_icons=true&theme=gruvbox)
 
 
 Feel free to get in touch with me:
