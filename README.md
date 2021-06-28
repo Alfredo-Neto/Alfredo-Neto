@@ -11,14 +11,8 @@ Currently studying OOP PHP, ReactJS and NodeJS
 
 - Studying Software Engineering at 42SP.
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anolivei&hide=html&layout=compact&theme=tokyonight" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=anolivei&theme=tokyonight"/></td>
-    </tr>   
-</table>
-</center>
+[![Alfredo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alfredo-Neto)](https://github.com/Alfredo-Neto/github-readme-stats)
+
 
 Feel free to get in touch with me:
 :arrow_down:
