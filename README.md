@@ -13,7 +13,7 @@ Currently studying OOP PHP with good practices and clean architecture, ReactJS a
 
 ![Alfredo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alfredo-Neto&theme=radical&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfredo-Neto&layout=compact)](https://github.com/Alfredo-Neto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfredo-Neto&layout=compact&theme=radical)](https://github.com/Alfredo-Neto/github-readme-stats)
 
 Feel free to get in touch with me:
 :arrow_down:
