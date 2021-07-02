@@ -4,9 +4,9 @@ I’m a self taught web developer since 2020, currently building personal projec
 
 Currently studying OOP PHP with good practices and clean architecture, ReactJS and NodeJS.
 
+<br>
 
 - Studying Software Engineering at 42SP.
-
 
 <div>
   <a href="https://github.com/Alfredo-Neto">
