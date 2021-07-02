@@ -21,18 +21,13 @@ Currently studying OOP PHP with good practices and clean architecture, ReactJS a
 Feel free to get in touch with me:
 :arrow_down:
 
-<p align="left">
-  <a href="mailto:alfredoneto934@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=" /></a>
-
-  <a href="https://www.linkedin.com/in/alfredo-neto-a2515814b/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alfredo-neto-a2515814b/" /></a>
-
-  <a href="https://api.whatsapp.com/send?phone=5511994829192&text=Olá%20Alfredo,%20tudo%20bem?" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-3CB371?style=flat-square&labelColor=3CB371&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5592982119316&text=Olá%20Alfredo,%20tudo%20bem?"/></a>
-
-  <a href="https://www.instagram.com/alfredobraule/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/alfredobraule/"/></a>
-</p>  
+<div> 
+  <a href="https://instagram.com/alfredobraule" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:alfredoneto934@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/alfredo-neto-a2515814b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/Alfredo-Neto/Alfredo-Neto/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 
