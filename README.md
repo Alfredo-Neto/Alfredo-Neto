@@ -11,8 +11,11 @@ Currently studying OOP PHP with good practices and clean architecture, ReactJS a
 
 - Studying Software Engineering at 42SP.
 
-![Alfredo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alfredo-Neto&theme=radical&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfredo-Neto&layout=compact&theme=radical&show_icons=true)](https://github.com/Alfredo-Neto/github-readme-stats)
+<div>
+  <a href="https://github.com/Alfredo-Neto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alfredo-Neto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfredo-Neto&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 Feel free to get in touch with me:
 :arrow_down:
