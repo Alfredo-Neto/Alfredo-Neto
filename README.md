@@ -4,6 +4,7 @@ I’m a self taught web developer since 2020, currently building personal projec
 
 Currently studying OOP PHP with good practices and clean architecture, ReactJS and NodeJS.
 
+
 - Studying Software Engineering at 42SP.
 
 
