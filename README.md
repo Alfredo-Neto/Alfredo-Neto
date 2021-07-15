@@ -8,6 +8,8 @@ Currently studying OOP PHP with good practices and clean architecture, ReactJS a
 
 - Studying Software Engineering at 42SP.
 
+## My current stats
+
 <div>
   <a href="https://github.com/Alfredo-Neto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alfredo-Neto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
