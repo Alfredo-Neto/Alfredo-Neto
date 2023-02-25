@@ -3,9 +3,9 @@
 I’m a passionate software developer, currently developing web applications with Ruby on Rails and Vue.js
 
 -Studying NodeJs and ReactJS
-<br>
 
 ## My current stats
+<br>
 
 <div>
   <a href="https://github.com/Alfredo-Neto">
