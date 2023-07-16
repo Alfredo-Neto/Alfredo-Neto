@@ -29,6 +29,7 @@
   <a href="https://www.linkedin.com/in/alfredo-braule/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+```
 <style>
     .flex-container {
         display: flex;
@@ -42,4 +43,4 @@
         background-color: #f1f1f1;
     }
 </style>
-
+```
