@@ -1,4 +1,4 @@
-### Hi there, Alfredo here 👋<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Alfredo Neto">
+### Hi there, Alfredo here 👋<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Alfredo Neto">
 
 I’m a passionate software developer, currently developing web applications with Ruby on Rails and Vue.js
 
@@ -9,8 +9,8 @@ I’m a passionate software developer, currently developing web applications wit
 
 <div>
   <a href="https://github.com/Alfredo-Neto">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Alfredo-Neto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfredo-Neto&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alfredo-Neto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfredo-Neto&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <br>
 <div>
